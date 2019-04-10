@@ -27,4 +27,4 @@
 * `npm run test`
 
 #### UML
-![TCP chatroom](./assets/);
+![socket.io](./assets/lab18.jpg);
